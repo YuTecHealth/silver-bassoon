@@ -147,9 +147,9 @@
             {
               "name": "Adafruit CLUE"
             },
-			{
+	    {
               "name": "Yutech TriBLE nRF52"
-            },
+            }
           ],
           "toolsDependencies": [
             {
