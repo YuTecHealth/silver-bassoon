@@ -109,7 +109,7 @@
           "name": "Yutech nRF52",
           "architecture": "nrf52",
           "version": "0.1.2",
-          "category": "Yutech",
+          "category": "Yutech_test",
           "url": "https://github.com/YuTecHealth/BoardsIndex/blob/master/Yutech-TriBLE-nRF52-0.1.2.zip?raw=true",
           "archiveFileName": "Yutech-TriBLE-nRF52-0.1.2.zip",
           "checksum": "SHA-256:af7926a495366881574e1203c084c41ad855378435a787b626d09a83ba2cd2e6",
