@@ -38,7 +38,7 @@
           "version": "9.4.0"
         }
       ],
-      "name": "Yutech_test",
+      "name": "Yutech",
       "email": "service@yutechealth.com",
       "help": {
         "online": "https://www.yutechealth.com/"
@@ -129,7 +129,7 @@
               "version": "7-2017q4"
             },
             {
-              "packager": "Yutech_test",
+              "packager": "Yutech",
               "name": "nrfjprog",
               "version": "9.4.0"
             }
