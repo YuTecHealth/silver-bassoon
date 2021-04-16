@@ -362,6 +362,36 @@
               "version": "9.4.0"
             }
           ]
+        },
+		{
+          "name": "Yutech nRF52",
+          "architecture": "nrf52",
+          "version": "0.1.9",
+          "category": "Yutech",
+          "url": "https://github.com/YuTecHealth/BoardsIndex/blob/master/Yutech-TriBLE-nRF52-0.1.9.zip?raw=true",
+          "archiveFileName": "Yutech-TriBLE-nRF52-0.1.9.zip",
+          "checksum": "SHA-256:7b30437db1b7ecef171f0820896754287a45418b9c99b53b21aff7281207592c",
+          "size": "17277612",
+          "help": {
+            "online": "https://www.yutechealth.com/"
+          },
+          "boards": [
+            {
+              "name": "Yutech TriBLE nRF52"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "Yutech",
+              "name": "arm-none-eabi-gcc",
+              "version": "9-2019q4"
+            },
+            {
+              "packager": "Yutech",
+              "name": "nrfjprog",
+              "version": "9.4.0"
+            }
+          ]
         }
       ]
     }
