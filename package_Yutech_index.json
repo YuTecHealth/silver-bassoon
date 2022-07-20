@@ -606,12 +606,12 @@
 		{
           "name": "Yutech nRF52",
           "architecture": "nrf52",
-          "version": "0.3.6",
+          "version": "0.3.7",
           "category": "Yutech",
-          "url": "https://github.com/YuTecHealth/BoardsIndex/blob/master/Yutech-TriBLE-nRF52-0.3.6.zip?raw=true",
-          "archiveFileName": "Yutech-TriBLE-nRF52-0.3.6.zip",
-          "checksum": "SHA-256:8cc383923e5e9755a98f2ec37dfe048b824876b20162df9566c102cc3d8fab3b",
-          "size": "17851384",
+          "url": "https://github.com/YuTecHealth/BoardsIndex/blob/master/Yutech-TriBLE-nRF52-0.3.7.zip?raw=true",
+          "archiveFileName": "Yutech-TriBLE-nRF52-0.3.7.zip",
+          "checksum": "SHA-256:e5e147c8a7801cd0e331699ea515a443e4b05c2532852296813c7fddb29d8241",
+          "size": "17851406",
           "help": {
             "online": "https://www.yutechealth.com/"
           },
