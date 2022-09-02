@@ -670,8 +670,8 @@
           "category": "Yutech",
           "url": "https://github.com/YuTecHealth/BoardsIndex/blob/master/Yutech-TriBLE-nRF52-0.3.9.zip?raw=true",
           "archiveFileName": "Yutech-TriBLE-nRF52-0.3.9.zip",
-          "checksum": "SHA-256:9ef84ab53454a6fc1d509e936725704cf974af602addd8608b98d6bfb631dd6f",
-          "size": "17618369",
+          "checksum": "SHA-256:6bd1ceb971215827f24f8cb5c188eaa61354e0eddd46540cd77eeee6946be5df",
+          "size": "17618407",
           "help": {
             "online": "https://www.yutechealth.com/"
           },
